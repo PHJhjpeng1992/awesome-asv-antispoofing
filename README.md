@@ -41,7 +41,6 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Advances in anti-spoofing: From the perspective of ASVspoof challenges](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/advances-in-antispoofing-from-the-perspective-of-asvspoof-challenges/6B5BB5B75A49022EB869C7117D5E4A9C), 2020
 * [Countermeasures to Replay Attacks: A Review](https://www.tandfonline.com/doi/abs/10.1080/02564602.2019.1684851?journalCode=titr20), 2020
 * [Introduction to Voice Presentation Attack Detection and Recent Advances](https://arxiv.org/pdf/1901.01085), 2019
-
 * [An Investigation of Deep-Learning Frameworks for Speaker Verification Anti-spoofing](http://crss.utdallas.edu/Publications/spoof_jp.pdf), 2017
 * [Spoofing and countermeasures for speaker verification A survey](https://www.sciencedirect.com/science/article/abs/pii/S0167639314000788), 2015
 
@@ -53,6 +52,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 #### Anti-spoofing with phoneme
 
 * [Phoneme Specific Modelling and Scoring Techniques for Anti Spoofing System](https://ieeexplore.ieee.org/document/8682411), 2019
+* [The SYSU System for the Interspeech 2015 Automatic Speaker Verification Spoofing and Countermeasures Challenge](https://arxiv.org/pdf/1507.06711), 2015
 
 #### Anti-spoofing with brain
 
@@ -71,6 +71,11 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Adversarial Multi-Task Learning for Speaker Normalization in Replay Detection](https://ieeexplore.ieee.org/document/9054322), 2020
 * [Multi-task learning of deep neural networks for joint automatic speaker verification and spoofing detection](https://ieeexplore.ieee.org/document/89023289), 2019
 * [Anti-Spoofing Speaker Verification System with Multi-Feature Integration and Multi-Task Learning](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1698.pdf), 2019
+* [Replay spoofing detection system for automatic speaker verification using multi-task learning of noise classes](https://arxiv.org/pdf/1808.09638), 2018
+
+#### Anti-spoofing with smarthome
+
+* [Protecting Voice Controlled Systems Using Sound Source Identification Based on Acoustic Cues](https://arxiv.org/pdf/1811.07018), 2018
 
 #### Challenges
 * [ASVspoof 2021](https://www.asvspoof.org), 2021
@@ -92,6 +97,9 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals](https://arxiv.org/pdf/2007.05979)
 * [Dynamically Mitigating Data Discrepancy with Balanced Focal Loss for Replay Attack Detection](https://arxiv.org/pdf/2006.14563)
 * [Voice Spoofing Detection Corpus for Single and Multi-order Audio Replays](https://arxiv.org/pdf/1909.00935)
+* [An Ensemble Based Approach for Generalized Detection of Spoofing Attacks to Automatic Speaker Recognizers](https://ieeexplore.ieee.org/document/9054558)
+* [Defense against adversarial attacks on spoofing countermeasures of ASV](https://arxiv.org/pdf/2003.03065)
+* [Multiple Points Input For Convolutional Neural Networks in Replay Attack Detection](https://ieeexplore.ieee.org/document/9053303)
 
 #### 2019
 
@@ -102,4 +110,13 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [Adversarial Attacks on Spoofing Countermeasures of automatic speaker verification](https://arxiv.org/pdf/1910.08716)
 * [Replay Spoofing Countermeasure Using Autoencoder and Siamese Network on ASVspoof 2019 Challenge](https://arxiv.org/pdf/1910.13345)
 
+#### 2018
 
+* [Independent Modelling of Long and Short Term Speech Information for Replay Detection](https://www.researchgate.net/publication/328828011_Independent_Modelling_of_Long_and_Short_Term_Speech_Information_for_Replay_Detection)
+* [Voice livness detection based on pop-noise detector with phoneme information for speaker verification](https://www.researchgate.net/publication/310760372_Voice_livness_detection_based_on_pop-noise_detector_with_phoneme_information_for_speaker_verification)
+* [An end-to-end spoofing countermeasure for automatic speaker verificationusing evolving recurrent neural networks](http://hectordelgado.me/wp-content/uploads/Delgado2018c.pdf)
+* [Deep Siamese Architecture Based Replay Detection for Secure VoiceBiometric](https://isca-speech.org/archive/Interspeech_2018/pdfs/1819.pdf)
+* [Use of Claimed Speaker Models for Replay Detection](https://ieeexplore.ieee.org/document/8659510?denied=)
+* [Replay Attacks Detection Using Phase and Magnitude Features with Various Frequency Resolutions](https://ieeexplore.ieee.org/document/8706628)
+* [Performance evaluation of front- and back-end techniques for ASV spoofingdetection systems based on deep features](https://www.isca-speech.org/archive/IberSPEECH_2018/pdfs/IberS18_P1-6_Gomez-Alanis.pdf)
+* [Modulation Dynamic Features for the Detection of Replay Attacks](https://www.researchgate.net/publication/327389405_Modulation_Dynamic_Features_for_the_Detection_of_Replay_Attacks)
