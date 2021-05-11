@@ -229,9 +229,17 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 | Audio | Type | Language | Pricing | Additional information |
 | ----- | ------------------------ | -------- | ------- | ---------------------- |
+| [ASVspoof 2019](https://datashare.ed.ac.uk/handle/10283/3336) | [PA(16.44Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/3336/PA.zip?sequence=4&isAllowed=y) , [LA(7.116Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/3336/LA.zip?sequence=3&isAllowed=y) | en | Free | [Evaluation Plan](https://www.asvspoof.org/asvspoof2019/asvspoof2019_evaluation_plan.pdf)
+| [ASVspoof 2017](https://datashare.ed.ac.uk/handle/10283/3055) | PA-[Train(200.7Mb)](https://datashare.ed.ac.uk/bitstream/handle/10283/3055/ASVspoof2017_V2_train.zip?sequence=10&isAllowed=y), [Dev(133.7Mb)](https://datashare.ed.ac.uk/bitstream/handle/10283/3055/ASVspoof2017_V2_dev.zip?sequence=5&isAllowed=y), [Eval(1.065Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/3055/ASVspoof2017_V2_eval.zip?sequence=6&isAllowed=y) | en | Free | [Evaluation Plan](https://datashare.ed.ac.uk/bitstream/handle/10283/3055/asvspoof2017_evalplan_v1.1.pdf?sequence=3&isAllowed=y)
+| [SAS Corpus](https://datashare.ed.ac.uk/handle/10283/2741) | LA-[SS_LARGE-16k (7.591Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/SS_LARGE-16k.tar.gz?sequence=2&isAllowed=y), [SS_LARGE-48k (7.798Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/SS_LARGE-48k.tar.gz?sequence=3&isAllowed=y), [SS_MARY_LARGE (7.303Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/SS_MARY_LARGE.tar.gz?sequence=4&isAllowed=y), [SS_SMALL-16k (7.582Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/SS_SMALL-16k.tar.gz?sequence=5&isAllowed=y), [SS_SMALL-16k (7.582Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/SS_SMALL-16k.tar.gz?sequence=5&isAllowed=y), [SS_SMALL-48k (7.788Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/SS_SMALL-48k.tar.gz?sequence=6&isAllowed=y), [VC_C1 (10.00Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_C1.tar.gz?sequence=7&isAllowed=y), [VC_EVC (6.518Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_EVC.tar.gz?sequence=8&isAllowed=y), [VC_FESTVOX (10.04Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_FESTVOX.tar.gz?sequence=9&isAllowed=y), [VC_FS (10.15Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_FS.tar.gz?sequence=10&isAllowed=y), [VC_GMM (9.830Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_GMM.tar.gz?sequence=11&isAllowed=y), [VC_KPLS (9.703Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_KPLS.tar.gz?sequence=12&isAllowed=y), [VC_LSP (9.616Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_LSP.tar.gz?sequence=13&isAllowed=y), [VC_TVC (6.489Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/VC_TVC.tar.gz?sequence=14&isAllowed=y), [human (3.229Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/782/human.tar.gz?sequence=15&isAllowed=y) | en | Free | [LICENSE](https://datashare.ed.ac.uk/bitstream/handle/10283/782/license_text?sequence=17&isAllowed=y)
+| [ASVspoof 2015](https://datashare.ed.ac.uk/handle/10283/853) | LA-[Data - Part aa (7.543Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/853/wav_data.aa.tar.gz?sequence=6&isAllowed=y),[Data - Part ab (7.543Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/853/wav_data.ab.tar.gz?sequence=7&isAllowed=y),[Data - Part ac (7.331Gb)](https://datashare.ed.ac.uk/bitstream/handle/10283/853/wav_data.ac.tar.gz?sequence=8&isAllowed=y) | en | Free | [LICENSE](https://datashare.ed.ac.uk/bitstream/handle/10283/853/license_text?sequence=9&isAllowed=y)
 
-
-
+### Phisical access training sets
+* [ASV2019 Training set](https://datashare.ed.ac.uk/bitstream/handle/10283/3336/PA.zip?sequence=4&isAllowed=y)
+* [ASV2017 Training set](https://datashare.ed.ac.uk/bitstream/handle/10283/3055/ASVspoof2017_V2_train.zip?sequence=10&isAllowed=y)
+### Logical access training sets
+* [ASV2019 Training set](https://datashare.ed.ac.uk/bitstream/handle/10283/3336/LA.zip?sequence=3&isAllowed=y)
+* ASV2015 Training set [Part aa](https://datashare.ed.ac.uk/bitstream/handle/10283/853/wav_data.aa.tar.gz?sequence=6&isAllowed=y),[ab](https://datashare.ed.ac.uk/bitstream/handle/10283/853/wav_data.ab.tar.gz?sequence=7&isAllowed=y),[ac](https://datashare.ed.ac.uk/bitstream/handle/10283/853/wav_data.ac.tar.gz?sequence=8&isAllowed=y)
 ### Augmentation noise sources
 
 | Name | Utterances | Pricing | Additional information |
@@ -239,12 +247,29 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 | [AudioSet](https://research.google.com/audioset/) | 2M | Free | A large-scale dataset of manually annotated audio events. |
 | [MUSAN](https://www.openslr.org/17/) | N/A | Free | MUSAN is a corpus of music, speech, and noise recordings. |
 
+### Speaker Verification training sets
+
+| Name | Utterances | Speakers | Language | Pricing | Additional information |
+| ---- | ---------- | -------- | -------- | ------- | ---------------------- |
+| [TIMIT](https://catalog.ldc.upenn.edu/LDC93S1) | 6K+ | 630 | en | $250.00 | Published in 1993, the TIMIT corpus of read speech is one of the earliest speaker recognition datasets. |
+| [VCTK](https://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html) | 43K+ | 109 | en | Free | Most were selected from a newspaper plus the Rainbow Passage and an elicitation paragraph intended to identify the speaker's accent. |
+| [LibriSpeech](http://www.openslr.org/12) | 292K | 2K+ | en | Free | Large-scale (1000 hours) corpus of read English speech. |
+| [Multilingual LibriSpeech (MLS)](http://openslr.org/94/) | ? | ? | en, de, nl, es, fr, it, pt, po | Free | Multilingual LibriSpeech (MLS) dataset is a large multilingual corpus suitable for speech research. The dataset is derived from read audiobooks from LibriVox and consists of 8 languages - English, German, Dutch, Spanish, French, Italian, Portuguese, Polish. |
+| [LibriVox](https://librivox.org/) | 180K | 9K+ | Multiple | Free | Free public domain audiobooks. LibriSpeech is a processed subset of LibriVox. Each original unsegmented utterance could be very long. |
+| [VoxCeleb 1&2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) | 1M+ | 7K | Multiple | Free | VoxCeleb is an audio-visual dataset consisting of short clips of human speech, extracted from interview videos uploaded to YouTube. |
+| [The Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/) | 5K | 879 | en, de, nl | Free | Volunteer readers reading Wikipedia articles. |
+| [CN-Celeb](http://www.openslr.org/82/) | 130K+ | 1K | zh | Free | A Free Chinese Speaker Recognition Corpus Released by CSLT@Tsinghua University. |
+| [BookTubeSpeech](https://users.wpi.edu/~jrwhitehill/BookTubeSpeech/index.html) | 8K | 8K | en | Free | Audio samples extracted from BookTube videos - videos where people share their opinions on books - from YouTube. The dataset can be downloaded using [BookTubeSpeech-download](https://github.com/wq2012/BookTubeSpeech-download). |
+| [DeepMine](http://data.deepmine.ir/en/index.html) | 540K | 1850 | fa, en | Unknown | A speech database in Persian and English designed to build and evaluate speaker verification, as well as Persian ASR systems. |
+| [NISP-Dataset](https://github.com/iiscleap/NISP-Dataset) | ? | 345 | hi, kn, ml, ta, te (all Indian languages) | Free | This dataset contains speech recordings along with speaker physical parameters (height, weight, ... ) as well as regional information and linguistic information. |
+
 ## Conferences
 
 | Conference/Workshop | Frequency | Page Limit  | Organization | Blind Review |
 | ------------------- | --------- | ----------  | ------------ | ------------ |
 | ICASSP              | Annual    | 4 + 1 (ref) | IEEE         | No           |
 | InterSpeech         | Annual    | 4 + 1 (ref) | ISCA         | No           |
+| APSIPA              | Annual    | 4 + 1 (ref) | IEEE         | Yes           |
 | Odyssey     | Biennial  | 8 + 2 (ref) | ISCA         | No           |
 | SLT                 | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | ASRU                | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
