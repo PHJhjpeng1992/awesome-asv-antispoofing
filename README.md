@@ -87,6 +87,43 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 * [BTAS 2016](http://ieee-biometrics.org/btas2016/competitions.html), 2016
 * [ASVspoof 2015](https://www.asvspoof.org/index2015.html), 2015
 
+### Spoofing attack type 
+
+#### Self trigger attack
+
+* [Your Voice Assistant is Mine: How to Abuse Speakers to Steal Information and Control Your Phone](https://arxiv.org/pdf/1407.4923), 2014
+
+* [A11y Attacks: Exploiting Accessibility in Operating Systems](http://wenke.gtisc.gatech.edu/papers/a11y.pdf), 2014
+
+#### Inaudible voice command attack
+
+*[IEMI Threats for Information Security: Remote Command Injection on Modern Smartphones](https://ieeexplore.ieee.org/document/7194754), 2015
+
+* [DolphinAttack: Inaudible Voice Commands](https://acmccs.github.io/papers/p103-zhangAemb.pdf), 2017
+
+#### Hidden voice command attack
+
+* **White-box attack** 
+  * [Hidden Voice Commands](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_carlini.pdf), 2016
+
+  * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944), 2017
+
+  * [Adversarial Attacks Against Automatic SpeechRecognition Systems via Psychoacoustic Hiding](https://arxiv.org/pdf/1808.05665.pdf)
+* **Black-box attack**
+
+  * [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/pdf/1801.08535)
+
+  * [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems_AsiaCCS.pdf)
+
+* **Gray-box attack**
+
+  * [Adversarial Music: Real World Audio AdversaryAgainst Wake-word Detection System](https://proceedings.neurips.cc/paper/2019/file/ebbdfea212e3a756a1fded7b35578525-Paper.pdf)
+  
+#### Voice conversion attack
+#### Voice synthesis attack
+#### Replay attack
+#### Impostor attack
+
 ### Other
 
 #### 2021
