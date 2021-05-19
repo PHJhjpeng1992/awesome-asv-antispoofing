@@ -108,21 +108,36 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
   * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944), 2017
 
-  * [Adversarial Attacks Against Automatic SpeechRecognition Systems via Psychoacoustic Hiding](https://arxiv.org/pdf/1808.05665.pdf)
+  * [Adversarial Attacks Against Automatic SpeechRecognition Systems via Psychoacoustic Hiding](https://arxiv.org/pdf/1808.05665.pdf)， 2018
 * **Black-box attack**
 
-  * [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/pdf/1801.08535)
+  * [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/pdf/1801.08535)， 2018
 
-  * [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems_AsiaCCS.pdf)
+  * [SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems](https://nesa.zju.edu.cn/download/SirenAttack%20Generating%20Adversarial%20Audio%20for%20End-to-End%20Acoustic%20Systems_AsiaCCS.pdf)， 2019
 
 * **Gray-box attack**
 
-  * [Adversarial Music: Real World Audio AdversaryAgainst Wake-word Detection System](https://proceedings.neurips.cc/paper/2019/file/ebbdfea212e3a756a1fded7b35578525-Paper.pdf)
-  
+  * [Adversarial Music: Real World Audio AdversaryAgainst Wake-word Detection System](https://proceedings.neurips.cc/paper/2019/file/ebbdfea212e3a756a1fded7b35578525-Paper.pdf)， 2019
+
 #### Voice conversion attack
-#### Voice synthesis attack
+
+* [Voice conversion versus speaker verification:an overview](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DDAB15B28710960D07547DE06A98C695/S2048770314000171a.pdf/voice-conversion-versus-speaker-verification-an-overview.pdf), 2014
+
+#### Speech synthesis attack
+
+* [Evaluation of Speaker Verification Security and Detection of HMM-Based Synthetic Speech](https://ieeexplore.ieee.org/document/6205335), 2012
+
 #### Replay attack
+
+* [A study on replay attack and anti-spoofing for text-dependent speaker
+verification](https://ieeexplore.ieee.org/document/7041636), 2014
+* [A Study on Replay Attack and Anti-Spoofing for Automatic Speaker Verification](https://arxiv.org/pdf/1706.02101), 2017
+
 #### Impostor attack
+
+* [Can a Professional Imitator Fool a GMM-Based Speaker Verification System?](https://infoscience.epfl.ch/record/83202), 2005
+
+* [I-Vectors Meet Imitators: On Vulnerability of Speaker Verification Systems Against Voice Mimicry](https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_0930.pdf), 2013
 
 ### Other
 
@@ -311,3 +326,26 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 | SLT                 | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | ASRU                | Biennial  | 6 + 2 (ref) | IEEE         | Yes          |
 | WASPAA              | Biennial  | 4 + 1 (ref) | IEEE         | No           |
+
+## Other learning materials
+
+### Books
+
+* [Handbook of Biometric Anti-Spoofing](https://www.nice.com/engage/blog/can-you-fool-voice-biometrics-2359/)
+
+### Tech blogs
+
+* [Can You Fool Voice Biometrics?](https://www.idrnd.ai/blog/) by [Lior Artzi](https://www.nice.com/engage/blog/author/lior-artzi/)
+
+* [ID R&D and Synaptics First to Deploy Voice Biometrics on NPU for Smart Home Applications](https://www.synaptics.com/company/blog/IDRD) by Vineet Ganju
+
+### Video tutorials
+
+## Product
+
+| Company | Product |
+| ------- | ------- |
+| Pindrop | [Deep Voice Engine](https://www.pindrop.com/technologies/deep-voice/) |
+| ID R&D | [IDLive™ Voice](https://www.idrnd.ai/voice-anti-spoofing/) |
+| VoiceAI | [Voiceprint recognition API](https://market.aliyun.com/products/57124001/cmapi00039301.html#sku=yuncode3330100008)
+| Kriston | [Voiceprint API,SDK](http://www.shengwenyun.com/)
