@@ -25,6 +25,7 @@
   * [Video tutorials](#Video-tutorials)
 * [Products](#Products)
 * [Project](#Project)
+* [Standards](#Standards)
 
 ## Overview
 
@@ -129,8 +130,7 @@ To add items to this page, simply send a pull request. ([contributing guide](CON
 
 #### Replay attack
 
-* [A study on replay attack and anti-spoofing for text-dependent speaker
-verification](https://ieeexplore.ieee.org/document/7041636), 2014
+* [A study on replay attack and anti-spoofing for text-dependent speaker verification](https://ieeexplore.ieee.org/document/7041636), 2014
 * [A Study on Replay Attack and Anti-Spoofing for Automatic Speaker Verification](https://arxiv.org/pdf/1706.02101), 2017
 
 #### Impostor attack
@@ -331,17 +331,17 @@ verification](https://ieeexplore.ieee.org/document/7041636), 2014
 
 ### Books
 
-* [Handbook of Biometric Anti-Spoofing](https://www.nice.com/engage/blog/can-you-fool-voice-biometrics-2359/)
+* [Handbook of Biometric Anti-Spoofing](https://link.springer.com/book/10.1007%2F978-3-319-92627-8)
 
 ### Tech blogs
 
-* [Can You Fool Voice Biometrics?](https://www.idrnd.ai/blog/) by [Lior Artzi](https://www.nice.com/engage/blog/author/lior-artzi/)
+* [Can You Fool Voice Biometrics?](https://www.nice.com/engage/blog/can-you-fool-voice-biometrics-2359/) by [Lior Artzi](https://www.nice.com/engage/blog/author/lior-artzi/)
 
 * [ID R&D and Synaptics First to Deploy Voice Biometrics on NPU for Smart Home Applications](https://www.synaptics.com/company/blog/IDRD) by Vineet Ganju
 
 ### Video tutorials
 
-## Product
+## Products
 
 | Company | Product |
 | ------- | ------- |
@@ -349,3 +349,13 @@ verification](https://ieeexplore.ieee.org/document/7041636), 2014
 | ID R&D | [IDLive™ Voice](https://www.idrnd.ai/voice-anti-spoofing/) |
 | VoiceAI | [Voiceprint recognition API](https://market.aliyun.com/products/57124001/cmapi00039301.html#sku=yuncode3330100008)
 | Kriston | [Voiceprint API,SDK](http://www.shengwenyun.com/)
+
+## Project
+
+* [OCTAVE](https://www.octave-project.eu/)
+
+## Standards
+
+* [Information security technology — Security requirements of voiceprint recognition data(Exposure draft)](https://www.tc260.org.cn/file/2021-04-28/846cb81c-bc4e-4c8e-aad7-191c9a676884.docx), 2021
+
+* [Technical specifications for voiceprint recognition based security application for mobile finance (JR / t0164-2018)](https://sv.cebnet.com.cn/upload/regulation1101/regulation1101.pdf), 2018
